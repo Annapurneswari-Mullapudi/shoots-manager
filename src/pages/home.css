@@ -63,6 +63,7 @@
   height: 110px;
   border-radius: 10px;
   object-fit: cover;
+  flex-shrink: 0;
 }
 
 .card h4 {
@@ -120,11 +121,10 @@ footer {
 
 @media (max-width: 600px) {
   .card img {
-    width: 90px;
-    height: 80px;
+    width: 170px;
+    height: 110px;
   }
 }
-
 
 
 
