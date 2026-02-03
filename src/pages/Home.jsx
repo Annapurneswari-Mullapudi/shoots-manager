@@ -71,7 +71,7 @@ export default function Home() {
                 
                   {completedBy && (
                       <div className="completedText">
-                        Completed by {completedBy}
+                        Done by {completedBy}
                       </div>
                   )}
                  

@@ -51,7 +51,7 @@
 .card {
   display: flex;
   align-items: center;
-  gap: 30px;
+  gap: 15px;
   border: 1px solid #ddd;
   border-radius: 12px;
   padding: 0px;
@@ -83,7 +83,7 @@
 .viewdetailsDiv{
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 5px;
   margin-top: 10px;
   
 }
