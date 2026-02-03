@@ -120,8 +120,8 @@ footer {
 
 @media (max-width: 600px) {
   .card img {
-    width: 90px;
-    height: 80px;
+    width: 120px;
+    height: 130px;
   }
 }
 
