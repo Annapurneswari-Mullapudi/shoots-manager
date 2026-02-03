@@ -120,11 +120,19 @@ footer {
 /* Mobile */
 
 @media (max-width: 600px) {
+  .card {
+    gap: 15px;
+  }
+
   .card img {
     width: 170px;
     height: 110px;
+    border-radius: 10px;
+    object-fit: cover;
+    flex-shrink: 0;
   }
 }
+
 
 
 
