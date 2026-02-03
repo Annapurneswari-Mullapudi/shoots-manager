@@ -137,6 +137,9 @@ footer {
 /*from here*/
 
 @media (max-width: 360px) {
+  .searchBox input {
+    width: 85%;
+  }
   .card {
     gap: 12px;
   }
@@ -162,7 +165,7 @@ footer {
   }
   .completedText {
   font-size: 6px;
-  padding: 5px 8px;
+  padding: 6px 8px;
   }
   .card p {
   margin: 2px 0;
@@ -175,6 +178,9 @@ footer {
 
 
 @media (min-width: 361px) and (max-width: 390px) {
+  .searchBox input {
+    width: 85%;
+  }
   card {
     gap: 12px;
   }
@@ -200,7 +206,7 @@ footer {
   }
   .completedText {
   font-size: 6px;
-  padding: 5px 8px;
+  padding: 6px 8px;
   }
   .card p {
   margin: 2px 0;
@@ -213,6 +219,9 @@ footer {
 
 
 @media (min-width: 391px) and (max-width: 430px) {
+  .searchBox input {
+    width: 88%;
+  }
   card {
     gap: 12px;
   }
@@ -238,7 +247,7 @@ footer {
   }
   .completedText {
   font-size: 6px;
-  padding: 5px 8px;
+  padding: 6px 8px;
   }
   .card p {
   margin: 2px 0;
@@ -251,6 +260,9 @@ footer {
 
 
 @media (min-width: 431px) and (max-width: 600px) {
+  .searchBox input {
+    width: 89%;
+  }
   card {
     gap: 12px;
   }
@@ -276,7 +288,7 @@ footer {
   }
   .completedText {
   font-size: 8px;
-  padding: 5px 8px;
+  padding: 6px 8px;
   }
   .card p {
   margin: 4px 0;
