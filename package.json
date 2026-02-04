@@ -2,9 +2,7 @@
   "name": "shoots-manager",
   "private": true,
   "version": "0.0.0",
-
   "homepage": "https://annapurneswari-mullapudi.github.io/shoots-manager",
-
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -15,6 +13,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "firebase": "^12.8.0",
     "icons": "^1.0.0",
     "react": "^19.2.4",
     "react-dom": "^19.2.0",
